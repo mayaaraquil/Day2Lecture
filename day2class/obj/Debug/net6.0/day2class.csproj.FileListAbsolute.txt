@@ -1,0 +1,15 @@
+C:\Users\aaraq\source\repos\day2class\day2class\bin\Debug\net6.0\day2class.exe
+C:\Users\aaraq\source\repos\day2class\day2class\bin\Debug\net6.0\day2class.deps.json
+C:\Users\aaraq\source\repos\day2class\day2class\bin\Debug\net6.0\day2class.runtimeconfig.json
+C:\Users\aaraq\source\repos\day2class\day2class\bin\Debug\net6.0\day2class.dll
+C:\Users\aaraq\source\repos\day2class\day2class\bin\Debug\net6.0\day2class.pdb
+C:\Users\aaraq\source\repos\day2class\day2class\obj\Debug\net6.0\day2class.csproj.AssemblyReference.cache
+C:\Users\aaraq\source\repos\day2class\day2class\obj\Debug\net6.0\day2class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaraq\source\repos\day2class\day2class\obj\Debug\net6.0\day2class.AssemblyInfoInputs.cache
+C:\Users\aaraq\source\repos\day2class\day2class\obj\Debug\net6.0\day2class.AssemblyInfo.cs
+C:\Users\aaraq\source\repos\day2class\day2class\obj\Debug\net6.0\day2class.csproj.CoreCompileInputs.cache
+C:\Users\aaraq\source\repos\day2class\day2class\obj\Debug\net6.0\day2class.dll
+C:\Users\aaraq\source\repos\day2class\day2class\obj\Debug\net6.0\refint\day2class.dll
+C:\Users\aaraq\source\repos\day2class\day2class\obj\Debug\net6.0\day2class.pdb
+C:\Users\aaraq\source\repos\day2class\day2class\obj\Debug\net6.0\day2class.genruntimeconfig.cache
+C:\Users\aaraq\source\repos\day2class\day2class\obj\Debug\net6.0\ref\day2class.dll
